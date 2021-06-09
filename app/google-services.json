@@ -1,7 +1,7 @@
 {
   "project_info": {
     "project_number": "484076887398",
-    "project_id": "filebasebai1",
+    "project_id": "Firebase",
     "storage_bucket": "filebasebai1.appspot.com"
   },
   "client": [
@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:484076887398:android:8433477cea06aae4b4fca7",
         "android_client_info": {
-          "package_name": "com.example.filebase_baitap1"
+          "package_name": "com.example.Firebase"
         }
       },
       "oauth_client": [
